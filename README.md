@@ -36,6 +36,8 @@ src="https://img.shields.io/twitch/status/totsakanx?logo=twitchsx&style=for-the-
 
 <a href="https://github.com/ToeyPathomkon" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToeyPathomkon&langs_count=10&title_color=22c55e&text_color=14b8a6&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
