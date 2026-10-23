@@ -4,11 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Programmer
 ----------
 
-I have 1 year of programmer experience, mainly familiar with php, css, js, Have experience in developing web applications for monitoring (Dashboard). I am currently studying react and am interested in writing mobile applications.
+I have 3 year of programmer experience, mainly familiar with php, css, js, Have experience in developing web applications. I am currently studying react and am interested in writing mobile applications.
 
 * 🌍  I'm based in Bangkok, THA
 * ✉️  You can contact me at [pathomkon.ph@gmail.com](mailto:pathomkon.ph@gmail.com)
-* 🧠  I'm learning fultter, react
 
 <a href="https://www.github.com/ToeyPathomkon" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ToeyPathomkon?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/totsakanx" target="_blank" rel="noreferrer"><img
